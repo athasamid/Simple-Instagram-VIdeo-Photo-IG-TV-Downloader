@@ -6,8 +6,9 @@ Here some source code to download instagram pic, vid, and TV
 - Download Video
 - Download IG TV
  
-### Next feature
-- Repost
+### TODO
+- Refactoring
+- Repost image to instagram
 - Save history to database
 
 My Instagram [@athasamid](https://instagram.com/athasamid)
