@@ -1,8 +1,8 @@
-## Simple-Instagram-VIdeo-Photo-IG-TV-Downloader
+###Simple-Instagram-VIdeo-Photo-IG-TV-Downloader
 
-* Here some source code to download instagram pic, vid, and TV
+Here some source code to download instagram pic, vid, and TV
 
-3rd Libraries
+### 3rd Libraries
 * Fast Android Networking
 * Glide
 * Gson
